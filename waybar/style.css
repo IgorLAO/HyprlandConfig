@@ -3,6 +3,7 @@
     font-size: 12px;
     font-family: "JetBrainsMono Nerd Font,JetBrainsMono NF" ;
     min-height: 5px;
+    color: #fff;
 }
 
 window#waybar {
